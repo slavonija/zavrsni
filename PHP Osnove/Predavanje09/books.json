@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "image": "uploads\/1715167071_Harry Potter and sorcerers stone.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "image": "uploads\/1715167122_The Lord of the Rings.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatesby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "image": "uploads\/1715167167_the-great-gatsby-cover.jpg"
+    }
+]

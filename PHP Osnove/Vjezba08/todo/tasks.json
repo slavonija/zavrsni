@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "task": "Platiti porez"
+    },
+    {
+        "id": 2,
+        "task": "Ispeglati majice"
+    },
+    {
+        "id": 3,
+        "task": "Napisati zadaću"
+    },
+    {
+        "id": 4,
+        "task": "Napraviti sarmu"
+    }
+]

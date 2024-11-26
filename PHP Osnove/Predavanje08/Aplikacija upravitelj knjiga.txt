@@ -1,0 +1,22 @@
+Zahtjev za Izradu Aplikacije: Upravitelj Knjiga
+Opis Projekta:
+Potrebno je razviti PHP aplikaciju naziva „Upravitelj Knjiga“;.
+Aplikacija će omogućiti korisnicima da interaktivno upravljaju kolekcijom knjiga pohranjenom u JSON formatu.
+Korisnici će moći dodavati nove knjige, pretraživati postojeće, ažurirati ih ili ih brisati.
+
+Funkcionalni Zahtjevi:
+
+1.	Upravljanje Knjigama:
+a.	Dodavanje Knjige: Korisnik može dodati knjigu s detaljima kao što su naslov, autor i godina izdanja.
+b.	Pretraživanje Knjige po ID-u: Korisnik može pretražiti knjigu koristeći jedinstveni identifikator (ID).
+c.	Ažuriranje Knjige: Korisnik može ažurirati informacije o knjizi.
+d.	Brisanje Knjige: Korisnik može obrisati knjigu iz kolekcije.
+2.	Pohrana Podataka:
+a.	Sve knjige će biti pohranjene u datoteci books.json.
+b.	Aplikacija treba učitavati i spremiti knjige iz ove datoteke kada god se izvrši bilo koja operacija.
+Vidimo da trebamo 4 osnovne funkcije: dodaj knjigu, pretraži knjigu po ID, ažuriraj knjigu i obriši knjigu.
+Trebamo još dvije funkcije: učitaj sve knjige i spremi knjige iz memorije u JSON datoteku.
+Do sada smo knjige spremali u memoriju. Sada bi ih htjeli spremiti u JSON datoteku, tj. pohraniti u datoteku i naravno dohvatiti iz nje.
+Prvo ćemo napisati funkciju za učitavanje knjiga iz json datoteke. Gledamo da imamo strukturu sa matricom dakle višedimenzionu matricu.
+Svaka pojedina knjiga imat će više matrica.
+

@@ -1,0 +1,20 @@
+{
+    "Platiti porez": {
+        "finished": true
+    },
+    "Ispeglati majice": {
+        "finished": false
+    },
+    "Napisati zadaću": {
+        "finished": true
+    },
+    "Napraviti sarmu": {
+        "finished": false
+    },
+    "Zaraditi 100 € svaki dan": {
+        "finished": true
+    },
+    "Posijati krumpir": {
+        "finished": false
+    }
+}

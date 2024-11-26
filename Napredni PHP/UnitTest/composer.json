@@ -1,0 +1,20 @@
+{
+    "name": "administrator/unit-tests",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Administrator\\UnitTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Branko Ćelap",
+            "email": "branko.celap@gmail.com"
+        }
+    ]
+}
+
+
